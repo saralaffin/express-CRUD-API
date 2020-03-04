@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/saralaffin/express-CRUD-API/issues"
   },
-  "homepage": "https://github.com/saralaffin/express-CRUD-API#readme"
+  "homepage": "https://github.com/saralaffin/express-CRUD-API#readme",
+  "dependencies": {
+    "mongoose": "^5.9.3"
+  }
 }
