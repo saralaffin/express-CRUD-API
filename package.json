@@ -16,10 +16,14 @@
   "bugs": {
     "url": "https://github.com/saralaffin/express-CRUD-API/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/saralaffin/express-CRUD-API#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "mongoose": "^5.9.3"
   }
+=======
+  "homepage": "https://github.com/saralaffin/express-CRUD-API#readme"
+>>>>>>> parent of e4b33f1... work on seeding
 }
