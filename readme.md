@@ -1,3 +1,39 @@
+# express-CRUD-API
+
+Project 6 in General Assembly SEI35
+
+URL for accessing API on Heroku: [https://peak-happiness-sal.herokuapp.com/](https://peak-happiness-sal.herokuapp.com/)
+
+RESTful routes (returns JSON):
+
+All peaks:
+
+`https://peak-happiness-sal.herokuapp.com/`
+
+Sort by country, for example Nepal:
+
+`https://peak-happiness-sal.herokuapp.com/country/Nepal`
+
+Sort by range, for example Himalayas:
+
+`https://peak-happiness-sal.herokuapp.com/range/Himalayas`
+
+Sort by minimum height in meters, for example 6000:
+
+`https://peak-happiness-sal.herokuapp.com/heightMin/6000`
+
+Sort by minimum prominence in meters, for example 5000:
+
+`https://peak-happiness-sal.herokuapp.com/prominenceMin/5000`
+
+Sort by name, for example Mount Everest:
+
+`https://peak-happiness-sal.herokuapp.com/Mount Everest`
+
+Create (post) using the base URL. Update and delete using thename route, for example Mount Everest:
+
+`https://peak-happiness-sal.herokuapp.com/Mount Everest`
+
 ### Technical Requirements
 
 - Be built using Express and Mongoose.
