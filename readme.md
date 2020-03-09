@@ -4,6 +4,8 @@ Project 6 in General Assembly SEI35
 
 Combined two datasets from Kaggle, [The 125 most topographically prominent summits](https://www.kaggle.com/justynapxw/the-125-most-topographically-prominent-summits) and the [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness), to create peak_happiness. I did not, in fact, achieve peak happiness while working on this project, but quite the opposite.
 
+To see my front-end, [click here](https://xenodochial-banach-8dcd17.netlify.com/), or checkout the [Github repo](https://github.com/saralaffin/MERN-front-end-of-Express-API).
+
 URL for accessing API on Heroku: [https://peak-happiness-sal.herokuapp.com/](https://peak-happiness-sal.herokuapp.com/)
 
 RESTful routes (returns JSON):
@@ -32,7 +34,11 @@ Sort by name, for example Mount Everest:
 
 `https://peak-happiness-sal.herokuapp.com/Mount Everest`
 
-Create (post) using the base URL. Update and delete using thename route, for example Mount Everest:
+Create (post) using the base URL:
+
+`https://peak-happiness-sal.herokuapp.com/`
+
+Update and delete using the name route, for example Mount Everest:
 
 `https://peak-happiness-sal.herokuapp.com/Mount Everest`
 
