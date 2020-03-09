@@ -2,6 +2,8 @@
 
 Project 6 in General Assembly SEI35
 
+Combined two datasets from Kaggle, [The 125 most topographically prominent summits](https://www.kaggle.com/justynapxw/the-125-most-topographically-prominent-summits) and the [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness), to create peak_happiness. I did not, in fact, achieve peak happiness while working on this project, but quite the opposite.
+
 URL for accessing API on Heroku: [https://peak-happiness-sal.herokuapp.com/](https://peak-happiness-sal.herokuapp.com/)
 
 RESTful routes (returns JSON):
